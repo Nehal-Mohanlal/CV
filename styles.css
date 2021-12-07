@@ -1,0 +1,28 @@
+body {
+  background-color: #dcdcdc;
+}
+hr {
+  border-style: none;
+  border-color: rgb(255, 245, 245);
+  border-width: 5px;
+  border-top-style: dotted;
+  width: 10%;
+}
+h3 {
+  color: #66bfbf;
+}
+
+h1 {
+  color: #66bfbf;
+}
+
+.table {
+  border: 1px solid black;
+}
+P,
+td,
+th {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 400;
+  color: #009dae;
+}
